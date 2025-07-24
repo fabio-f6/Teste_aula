@@ -1,5 +1,5 @@
 print("Olá, turma do Python!")
-print("Tudo bem!")
+print("Tudo bem?")
 nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 idade: int = input("Qual é a sua idade? ")
